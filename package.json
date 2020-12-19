@@ -1,5 +1,5 @@
 {
-  "name": "com.pavel_sushkov.SingletonScriptableObject",
+  "name": "com.pavel_sushkov.singletonscriptableobject",
   "version": "1.0.0",
   "displayName": "SingletonScriptableObject",
   "keywords": [
@@ -11,5 +11,6 @@
     "email": "pa.sushkov@gmail.com",
     "url": "http://none.com/"
   },
-    "description": "Basic Singleton implementation on Scriptable Objects",
+  "description": "Basic Singleton implementation on Scriptable Objects",
+  "type": "template"
 }
